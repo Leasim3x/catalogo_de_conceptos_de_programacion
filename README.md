@@ -1,2 +1,2 @@
-# catalogo_de_conceptos_de_programacion
+# CATÁLOGO DE CONCEPTOS DE PROGRAMACIÓN
 Catálogo personal de conceptos y definiciones sobre programación con marcado en Markdown.
